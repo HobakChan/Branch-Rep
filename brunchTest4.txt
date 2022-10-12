@@ -1,1 +1,1 @@
-print("Chicken is good food")
+print("Pizza is good food")
