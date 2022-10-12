@@ -9,3 +9,5 @@ def printMatrix(msg,mat):
          print(f'{mat[i][j]:4}', end=' ')
       print()
    return
+
+print("Hello git !!!!")
