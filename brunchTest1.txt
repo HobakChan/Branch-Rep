@@ -1,0 +1,9 @@
+def printMatrix(msg,mat):
+   print(msg)
+   for i in range(len(mat)):
+      print('\t', end='')
+      row = mat[i]
+      for j in range(len(row)):
+         print(f'{mat[i][j]:4}', end=' ')
+      print()
+   return
